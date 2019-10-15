@@ -1,0 +1,13 @@
+h1{
+  text-decoration: bold;
+  background-color: lightgray;
+}
+.lb{
+  background-color: lightblue;
+}
+.pl{
+  background-color: plum;
+}
+td:hover{
+  text-decoration: underline;
+}
